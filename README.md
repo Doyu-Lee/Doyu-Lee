@@ -5,7 +5,7 @@
 
 ## 🗂 Team Project
 ### 2023.7.~9.
-  - 제로힙 1.0.0 : 절약 유도 가계부 SNS로  <u>**가계부와 일기장, SNS**</u>가 함께 제공되는 서비스 ([Repositoy](https://github.com/codestates-seb/seb44_main_016) | [Website](https://zerohip.com))
+  - 제로힙 1.0.0 : 절약 유도 가계부 SNS로  <u>**가계부와 일기장, SNS**</u>가 함께 제공되는 서비스 ([Repositoy](https://github.com/codestates-seb/seb44_main_016) | [Website](https://zerohip.com) | [Notion](https://valuable-trawler-3af.notion.site/913728ad13d14974bd766d780632aedc?pvs=4))
 
 <br />
 
