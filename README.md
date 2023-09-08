@@ -3,6 +3,8 @@
 
 <p align="center"><img src="https://github.com/Doyu-Lee/Doyu-Lee/assets/125176463/ccb76d66-7b03-4ec3-b130-cf42ca51b5fc" height="350px" width="450px"></p>
 
+<br />
+
 ## 🗂 Team Project
 ### 2023.7.~9.
   - 제로힙 1.0.0 : 절약 유도 가계부 SNS로  <u>**가계부와 일기장, SNS**</u>가 함께 제공되는 서비스 ([Repositoy](https://github.com/codestates-seb/seb44_main_016) | [Website](https://zerohip.com) | [Notion](https://valuable-trawler-3af.notion.site/913728ad13d14974bd766d780632aedc?pvs=4))
@@ -43,4 +45,4 @@
 
 ## 👀 GitHub Status
 
-[![Doyu's github status](https://github-readme-stats.vercel.app/api?username=Doyu-Lee&count_private=true&custom_title=Doyu's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Doyu's github status](https://github-readme-stats.vercel.app/api?username=Doyu-Lee&count_private=true&custom_title=🌟🌟🌟🌟🌟&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
