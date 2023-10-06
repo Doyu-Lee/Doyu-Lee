@@ -66,7 +66,7 @@
 <br />
 <p>
 
-### 2023. 9. ~
+### 2023. 9.11 ~ 9. 15 (40h)
 
   <strong>핀테크아카데미 :</strong> 핀테크 서비스 개발 과정 수료 <br />
   <span align="center"> - [CRA로 구축된 기존 샘플 프로젝트를 nextjs로 마이그레이션](https://github.com/Doyu-Lee/open-bank/tree/open-bank) <span>
