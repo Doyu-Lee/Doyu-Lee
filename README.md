@@ -11,7 +11,7 @@
 </div><br />
 
 <div align="center">
-<h3> 🗂 Main Project </h3>
+<h2> 🗂 Main Project </h2>
 <br />
 <p>
 
@@ -26,7 +26,7 @@
 </p></div><br /><br />
 
 <div align="center">
-<h3> 🛠 Once I've used </h3>
+<h2> 🛠 Once I've used </h2>
 <br />
 <p>
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=plastic&logo=typescript&logoColor=white"> 
@@ -62,7 +62,7 @@
 </p></div><br /><br />
 
 <div align="center">
-<h3> ❤️‍🔥 Related Activities </h3>
+<h2> ❤️‍🔥 Related Activities </h2>
 <br />
 <p>
 
