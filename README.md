@@ -75,7 +75,7 @@
 ### 2023. 8. ~
 
   <strong>JOINUSKOREA :</strong> IT형 NGO 단체에서 웹 유지보수 장기 봉사자로 활동 <br />
-  <span align="center"> - [Apps Script로 액셀 시트와 구글 그룹스 회원 목록 동기화](https://doyu-l.tistory.com/639)<span>
+  <span align="center"> - [Apps Script로 엑셀 시트와 구글 그룹스 회원 목록 동기화](https://doyu-l.tistory.com/639)<span>
 
 
 </p></div><br /><br />
