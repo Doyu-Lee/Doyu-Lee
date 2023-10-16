@@ -15,8 +15,8 @@
 <br />
 <p>
 
-### 2023. 9. ~
-   <strong>포트폴리오 :</strong> `nextjs`와 `scss`로 만드는 `한/영 지원 인터렉티브` 포트폴리오 <br /><br />
+### 2023. 9. ~ 10.
+   <strong>포트폴리오 :</strong> `nextjs`와 `scss`로 만드는 `한/영 지원` 기능 외 노션 DB 기반의 블로그 <br /><br />
    ([Repositoy](https://github.com/Doyu-Lee/portfolio_doyu) | [Website](https://portfolio-doyu.vercel.app/))
    <br /><br />
 ### 2023. 7. ~ 9.
