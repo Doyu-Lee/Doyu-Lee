@@ -16,12 +16,12 @@
 <p>
 
 ### 2023. 9. ~ 10.
-   <strong>포트폴리오 :</strong> `nextjs`와 `scss`로 만드는 `한/영 지원` 기능 외 노션 DB 기반의 블로그 <br /><br />
+   <strong>포트폴리오 1.1.0:</strong> `nextjs`와 `scss`로 만드는 `한/영 지원` 기능 외 노션 DB 기반의 블로그 <br /><br />
    ([Repositoy](https://github.com/Doyu-Lee/portfolio_doyu) | [Website](https://portfolio-doyu.vercel.app/))
    <br /><br />
 ### 2023. 7. ~ 9.
    <strong>제로힙 1.0.0 :</strong> 절약 유도 가계부 SNS로   `가계부와 일기장, SNS` 가 함께 제공되는 서비스 <br /><br />
-   ([Repositoy](https://github.com/codestates-seb/seb44_main_016) | [Website(서버X)](https://zerohip.co.ke) | [Notion](https://valuable-trawler-3af.notion.site/913728ad13d14974bd766d780632aedc?pvs=4))
+   ([Repositoy](https://github.com/codestates-seb/seb44_main_016) | [Website(서버X)](https://zerohip.co.kr) | [Notion](https://valuable-trawler-3af.notion.site/913728ad13d14974bd766d780632aedc?pvs=4))
 
 </p></div><br /><br />
 
